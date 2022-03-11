@@ -21,6 +21,9 @@ span{
   cursor:pointer;
 }
 
+/* .logo{
+  font-family:
+} */
 
 
 /* nav items */
@@ -198,7 +201,7 @@ p{
   padding-right: 15px;
 }
 .social:hover{
-  color:#D82148;
+  color:yellow;
   transition: all 0.4s;
   cursor:pointer;
 }
